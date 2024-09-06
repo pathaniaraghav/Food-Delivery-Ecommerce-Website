@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "mongoose": "^8.5.3",
+    "uuid": "^10.0.0"
+  },
+  "name": "laziz-food-website",
+  "version": "1.0.0",
+  "description": "![alt text](image.png)\r Welcome to the Laziz Food website project! This repository contains the source code for the Laziz Food website, a vibrant and user-friendly platform designed to enhance the digital presence of Laziz Food.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon signup.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
